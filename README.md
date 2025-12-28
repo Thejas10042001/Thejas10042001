@@ -1,5 +1,8 @@
-## Hey, my name is Thejas Sreenivasu 
+## <center><img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%"></center> 
+**Hey, My name is Thejas Sreenivasu...........**
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Thejas10042001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Thejas10042001"/> 
@@ -18,7 +21,6 @@ I work across **web development, AI, data analytics, and privacy-aware applicati
 <p align="center">
   <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%">
 </p>
 
 ---
