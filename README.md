@@ -182,6 +182,18 @@ A secure authentication system implementing **Google Sign-In, Firebase Authentic
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Thejas10042001&theme=react-dark&hide_border=true&area=true)
 
 ---
+<div align="center">
+  
+  <a href="https://github.com/Thejas10042001">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thejas10042001&theme=tokyonight" />
+  </a>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thejas10042001&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thejas10042001&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thejas10042001&theme=tokyonight" width="32%" />
+
+</div>
+
 
 ## 🌐 Connect with Me
 - 🌐 Portfolio: https://thejassreenivasuaiportfolio.vercel.app  
