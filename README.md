@@ -1,14 +1,18 @@
-## <center><img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%"></center> 
 **Hey, My name is Thejas Sreenivasu...........**
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+## <center><img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%"></center> 
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=AI+%26+Full-Stack+Developer+%40+MCA+🎓;Cognitive+AI+%7C+Web+Systems+%7C+Data+Analytics+🧠;JavaScript+%7C+Python+%7C+React+%7C+TensorFlow+🤖;Building+Privacy-First+Intelligent+Systems+🔐;Turning+Human+Behavior+into+Software+✨)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Thejas10042001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Thejas10042001"/> 
   <img src="https://img.shields.io/github/stars/Thejas10042001?style=for-the-badge" alt="Thejas10042001"/>
   <img src="https://img.shields.io/github/followers/Thejas10042001?style=for-the-badge" alt="Thejas10042001"/>
 </p>
+
 
 I’m an **MCA student** and an **AI-focused Full-Stack Developer** passionate about building intelligent, human-centric systems.  
 I work across **web development, AI, data analytics, and privacy-aware applications**.
