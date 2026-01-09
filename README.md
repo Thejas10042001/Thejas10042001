@@ -205,5 +205,8 @@ A secure authentication system implementing **Google Sign-In, Firebase Authentic
 ## 🧩 Personal Brand
 
 AI-driven problem solver focused on understanding human behavior through data, vision, and intelligent systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30&fontAlignY=70&animation=twinkling" width="100%">
+
+</div>
 
 I build not just applications — but **decision-support systems that think, adapt, and respect privacy**.
